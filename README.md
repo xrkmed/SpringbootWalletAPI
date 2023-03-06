@@ -1,1 +1,2 @@
 # SpringbootWalletAPI
+Um simples sistema de API WebService Springboot Maven Java que retorna os usuários cadastrados no banco de dados em memória H2 com suas transações e suas informações pessoais do cadastro.
